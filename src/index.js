@@ -9,6 +9,9 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
+    <a href="https://github.com/Ronel3/shecodes-weather-app" target="_blank">
+      Ronel Simelane
+    </a>
   </React.StrictMode>
 );
 
